@@ -1,0 +1,8 @@
+modules = ["web", "python-3.12"]
+run = "run = \"html Index.html\""
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["sh", "-c", "run = \"html Index.html\""]
