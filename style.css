@@ -4,3 +4,7 @@ html{
 body{
   background-color: orchid;
 }
+p{
+  color: aliceblue;
+  font-weight: bolder;
+}
